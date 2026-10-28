@@ -1,0 +1,14 @@
+{
+  "name": "schemesathi",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SchemeSathi premium full-stack government scheme eligibility discovery demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
